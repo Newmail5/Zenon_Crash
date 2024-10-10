@@ -5,17 +5,17 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2349039996138"
-global.ownername = "ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮"
+global.ownername = "EVERGREEN"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '2349039996138'  //creator number
-global.ownername = 'ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮' //owner name
+global.ownername = 'EVERGREEN' //owner name
 global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By MFCLONE'
+global.packname = 'Sticker By EVERGREEN'
 global.author = 'ZENON\n\nContact: 48459439078'
 
 //console view/theme
@@ -26,11 +26,11 @@ global.wm = "Toxxic Tech."
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
